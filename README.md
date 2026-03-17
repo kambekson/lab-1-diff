@@ -47,13 +47,6 @@ python lab1_des.py
 python lab1_teacher.py
 ```
 
-На Windows при нескольких Python-интерпретаторах может понадобиться:
-
-```bash
-py -3 lab1_des.py
-py -3 lab1_teacher.py
-```
-
 ## Как работать (кратко)
 
 1. Откройте нужную версию приложения.
